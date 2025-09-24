@@ -1,4 +1,4 @@
-# 🚀 Project Title
+# 🚀 Feature Engineering for AirBnB Dataset
 
 One-line description of the project (e.g., "Forecasting store sales using deep learning and ARIMA models").
 
@@ -10,8 +10,6 @@ One-line description of the project (e.g., "Forecasting store sales using deep l
 - **Dataset:** [Dataset name](link to dataset) with # samples and features.
 - **Approach:** EDA → Feature Engineering → Modeling → Evaluation → Deployment.
 - **Tools:** Python, Pandas, Scikit-learn, TensorFlow/PyTorch, etc.
-
----
 
 ## 📊 Exploratory Data Analysis
 
