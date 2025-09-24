@@ -1,13 +1,18 @@
 # 🚀 Feature Engineering for AirBnB Dataset
 
-One-line description of the project (e.g., "Forecasting store sales using deep learning and ARIMA models").
+Part of personal Weekly Challenge to learn Data Science. This week is the first, and we start by doing feature engineering on data, to increase model ability. These are the details:
+
+- **Dataset:** [Airbnb NYC 2019](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+- **Tasks:** Cleaning, missing value imputation, feature engineering.
+- **Metrics:** RMSE (Airbnb price prediction).
+- **Goal:** Show at least +10% model improvement after feature engineering.
 
 ## 📌 Overview
 
-- **Problem:** Short description of what problem you're solving.
-- **Dataset:** [Dataset name](link to dataset) with # samples and features.
+- **Problem:** Increasing RMSE score for AirBnB price prediction, by doing some Feature Engineering
+- **Dataset:** [New York City AirBnB Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 - **Approach:** EDA → Feature Engineering → Modeling → Evaluation → Deployment.
-- **Tools:** Python, Pandas, Scikit-learn, TensorFlow/PyTorch, etc.
+- **Tools:** Python, Pandas, Scikit-learn.
 
 ## 📊 Exploratory Data Analysis
 
