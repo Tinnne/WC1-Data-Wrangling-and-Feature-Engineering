@@ -2,8 +2,6 @@
 
 One-line description of the project (e.g., "Forecasting store sales using deep learning and ARIMA models").
 
----
-
 ## 📌 Overview
 
 - **Problem:** Short description of what problem you're solving.
@@ -21,8 +19,6 @@ Key insights from data exploration:
 
 📷 _[Insert example plots or figures here]_
 
----
-
 ## 🤖 Models & Techniques
 
 - **Baseline Model:** (e.g., Logistic Regression, ARIMA) → metric score.
@@ -38,8 +34,6 @@ Key insights from data exploration:
 | Advanced Model 1 | 0.431                    |
 | Advanced Model 2 | 0.387 ✅                 |
 
----
-
 ## 📈 Results
 
 - Main performance results.
@@ -47,16 +41,12 @@ Key insights from data exploration:
 
 📷 _[Insert results screenshot or chart]_
 
----
-
 ## 🔍 Explainability
 
 - Feature importance / SHAP summary.
 - Example of model interpretability.
 
 📷 _[Insert SHAP plot / attention heatmap]_
-
----
 
 ## 🌐 Deployment
 
